@@ -1,0 +1,74 @@
+<RCC>
+  <qresource prefix="Adminpanel">
+    <file>drinks2.jpg</file>
+    <file>drinks1.jpg</file>
+    <file>drinks1.jpg</file>
+    <file>flowers1.jpg</file>
+    <file>Adminpanel3.png</file>
+    <file>AdminPanel4.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>customer5.jpg</file>
+    <file>admin2.jpg</file>
+    <file>product insights5.png</file>
+    <file>product insights6.png</file>
+    <file>product insights3.png</file>
+    <file>product insights4.png</file>
+    <file>customer3.jpg</file>
+    <file>product insights1.png</file>
+    <file>product insights2.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>customer2.jpg</file>
+    <file>icon_Small1.png</file>
+    <file>icon1.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Customer insight 8.png</file>
+    <file>Customer insight 8.png</file>
+    <file>Customer insight 8.png</file>
+    <file>customer insights3.png</file>
+    <file>customer insights2.png</file>
+    <file>Customer insights Dashboard2.png</file>
+    <file>vegg4.jpg</file>
+    <file>veggies1</file>
+    <file>veggies2.jpg</file>
+    <file>Customer insights Dashboard2.png</file>
+    <file>Customer insights Dashboard.png</file>
+    <file>cart1.jpg</file>
+    <file>customer4.jpg</file>
+    <file>shopcart6.jpg</file>
+    <file>shopcart5.jpg</file>
+    <file>warehouse4.jpg</file>
+    <file>warehouse4.jpg</file>
+    <file>warehouse4.jpg</file>
+    <file>datawarehouse.jpg</file>
+    <file>data2.jpg</file>
+    <file>sqlworkbench5.jpg</file>
+    <file>sqlworkbench4.jpg</file>
+    <file>sql workbench3.jpg</file>
+    <file>sql workbench3.jpg</file>
+    <file>sql workbench3.jpg</file>
+    <file>blub.png</file>
+    <file>datawarehouse.jpg</file>
+    <file>olap.png</file>
+    <file>sql workbench.png</file>
+    <file>sql workbench2.png</file>
+    <file>grocery4.png</file>
+    <file>grocery3.png</file>
+    <file>shopcart4.jpg</file>
+    <file>hagrid_small2.png</file>
+    <file>hagrid_small2.png</file>
+    <file>shopping cart3.png</file>
+    <file>shopcart2.jpg</file>
+    <file>hagrid6.png</file>
+    <file>shopcart2.jpg</file>
+    <file>shopping cart.png</file>
+    <file>hagrid_Small1.jpg</file>
+    <file>hagrid1 (1).png</file>
+    <file>hagrid1 (2).png</file>
+    <file>admin1</file>
+    <file>grocery1.jpg</file>
+    <file>customer1.webp</file>
+  </qresource>
+</RCC>
